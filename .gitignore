@@ -1,0 +1,9 @@
+face
+cifar0
+cifar10
+cifar100
+data/FashionMNIST
+venv/
+**/__pycache__/
+*.pt
+*.log
